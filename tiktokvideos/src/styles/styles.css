@@ -84,7 +84,7 @@ align-items: center;
     width: 100%;
     margin-left: 5%;
    
-}
+} 
 @media screen and (max-width:600px) {
     .content{
         display: flex;
